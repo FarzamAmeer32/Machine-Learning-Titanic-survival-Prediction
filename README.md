@@ -65,7 +65,7 @@ Both dataset files are already included inside the `data/` folder so users can r
 ## 1 Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone (https://github.com/FarzamAmeer32/Machine-Learning-Titanic-survival-Prediction)
 cd titanic-survival
 ```
 
